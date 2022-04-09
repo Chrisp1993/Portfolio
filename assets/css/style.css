@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing:border-box;
 }
 
 body {
@@ -12,11 +13,11 @@ body {
 
 header {
     padding: 20px 35px;
-    background-color: #31343d
+    background-color: #060b28
 }
 
 header h1 {
-    background-color: #92cccd;
+    background-color: #7de7e9;
     font-weight: bold;
     font-size: 36px;
     color: #445876;
@@ -25,7 +26,7 @@ header h1 {
 }
 
 header a {
-color: #92cccd;
+color: #7de7e9;
 text-decoration: underline;
 }
 
@@ -42,5 +43,25 @@ header nav ul li a {
     margin: 0;
     font-weight: lighter;
     font-size: 20px;
-    display: inline;
+
+}
+
+footer h2 {
+display: inline;
+color: #445876;
+font-size: 26px;
+margin: 0;
+}
+
+footer div {
+    color: #445876;
+line-height: 15px;
+}
+
+/*Hero Style*/
+.hero {
+    height: 400px;
+    background-image: url("../images/portfolio-hero.jpg");
+    background-position: center;
+    background-size: cover;
 }
