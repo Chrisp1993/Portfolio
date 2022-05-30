@@ -1,7 +1,7 @@
 # Portfolio
  
 ## About
-My portfolio includes an updated version of my recent work. Weather-i is a collaborative project with 2 other devs that includes a weather api that allows you to enter the  the A that includes collaborative work with other devs and an individual project. 
+My portfolio includes an updated version of my recent work. Weather-i is a collaborative project with 2 other devs; Run Buddy is a individual project of a mock fitness website. 
  
 # Projects
 
