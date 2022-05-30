@@ -17,10 +17,10 @@ Run-Buddy is a mock fitness website for a fitness program. The site features sig
 
 
 ## Website
-https://chrisp1993.github.io/portfolio/
+https://chrisp1993.github.io/Portfolio/
 
 ## Github Repository
-
+https://github.com/Chrisp1993/Portfolio
 
 ## Contribution
 Refactored by Chris Pollio
