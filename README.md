@@ -22,5 +22,4 @@ https://chrisp1993.github.io/Portfolio/
 ## Github Repository
 https://github.com/Chrisp1993/Portfolio
 
-## Contribution
-Refactored by Chris Pollio
+
